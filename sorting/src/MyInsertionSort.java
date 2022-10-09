@@ -1,5 +1,3 @@
-package com.sb.algorithm;
-
 import java.util.Arrays;
 
 public class MyInsertionSort {
